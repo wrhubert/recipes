@@ -12,7 +12,7 @@ categories: main
 - Can of tuna fish
 - Can of peas
 - Can of beans
-- A large quantity of Hot Sauce
+- Lots of Hot Sauce
 
 ## Directions
 
