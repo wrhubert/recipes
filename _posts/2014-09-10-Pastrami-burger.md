@@ -11,12 +11,12 @@ categories: entree
 - Burger buns, baguette or bagel
 - Pastrami substitute
 - Onios and Tomato Slices
-- Banana
+- Pickle
 
 ## Tool
  - knife
  - oven
- - smoker
+ - liquid smoke
 
 Spread a healthy amount of Nutella on to a  buns, baguette or bagel, and place as much peanut butter as you feel acceptable on to the other half of the baguette.
 
