@@ -12,6 +12,7 @@ categories: lunch, dinner
 - Cheese
 - Butter or Oil
 - Extra Hot Sauce
+- Chicken or Steak
 
 ## Sides
  - Guacamole
